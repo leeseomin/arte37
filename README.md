@@ -79,7 +79,7 @@ bash main2.sh
  
 ### output image1
  <img src="https://github.com/leeseomin/arte37/blob/main/out/hapx37.png" width="2000">
- <img src="https://github.com/leeseomin/arte37/blob/main/out/hapx37c.png" width="2000">
+ <img src="https://github.com/leeseomin/arte37/blob/main/out/hapx37c.jpg" width="2000">
 
 
  
