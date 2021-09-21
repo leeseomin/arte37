@@ -1,5 +1,8 @@
 # arte37
 
+ <img src="https://github.com/leeseomin/arte37/blob/main/out/seed0322x37a.jpg" width="2000">
+ 
+ <img src="https://github.com/leeseomin/arte37/blob/main/out/seed0322x37c.jpg" width="2000">
 
 
 ### Dependency install on ubuntu 20.04 
