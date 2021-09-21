@@ -9,7 +9,7 @@ cd ..
 cd s
 for i in *.* 
 do 
-convert $i /home/lee/arte27/logo/mon8.png -alpha set  -compose screen -composite ../s9/$i 
+convert $i /home/lee/arte37/logo/mon8.png -alpha set  -compose screen -composite ../s9/$i 
 done 
 cd ..
 cd s9
