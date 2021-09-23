@@ -61,6 +61,7 @@ mkdir s{1..25}
 
 ### Usage
 ```
+# main 
 
 input images folder : s ,   result folder : s25
 
