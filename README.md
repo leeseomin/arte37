@@ -66,7 +66,7 @@ mkdir s{1..25}
 input images folder : s ,   result folder : s25
 
 
-bash main2.sh   
+bash main3.sh   
 
 
 # simple hdr effect
